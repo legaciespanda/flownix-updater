@@ -1,2 +1,2 @@
-1.2
+1.4
 http://www.company.com/setup.exe
