@@ -1,5 +1,5 @@
 version:1.4
-winlink:https://drive.google.com/file/d/1tn7QsNsBysgwnmgK-nUDD9SAysRKAyX1/view?usp=sharing
+winlink:https://drive.usercontent.google.com/open?id=1tn7QsNsBysgwnmgK-nUDD9SAysRKAyX1&authuser=0
 maclink:https://www.company.com/downloads/flownix-1.4.dmg
 linuxlink:https://www.company.com/downloads/flownix-1.4.AppImage
 notes:["Critical security patch for remote code execution vulnerability","New dark mode theme","Performance improvements up to 40% faster startup","Fixed memory leak in background sync"]
