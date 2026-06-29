@@ -1,2 +1,5 @@
-1.4
-http://www.company.com/setup.exe
+version:1.4
+winlink:https://www.company.com/downloads/flownix-1.4-setup.exe
+maclink:https://www.company.com/downloads/flownix-1.4.dmg
+linuxlink:https://www.company.com/downloads/flownix-1.4.AppImage
+notes:["Critical security patch for remote code execution vulnerability","New dark mode theme","Performance improvements up to 40% faster startup","Fixed memory leak in background sync"]
