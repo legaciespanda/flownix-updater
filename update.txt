@@ -1,5 +1,5 @@
-version:1.4
-winlink:https://drive.usercontent.google.com/download?id=1tn7QsNsBysgwnmgK-nUDD9SAysRKAyX1&export=download&authuser=0&confirm=t&uuid=5c4441cd-a208-4cca-a350-822cd7709f68&at=ABswASaJTEALyEnB5wuoHtnq54_z%3A1782740251878
+version:1.0.4
+winlink:https://drive.usercontent.google.com/download?id=1isYvV5kTNdv6QFiyz4rhYORRY-5rsGC9&export=download&authuser=0&confirm=t&uuid=e850d0b3-130c-4ce2-8264-fc981feb77d9
 maclink:https://www.company.com/downloads/flownix-1.4.dmg
 linuxlink:https://www.company.com/downloads/flownix-1.4.AppImage
-notes:["Critical security patch for remote code execution vulnerability","New dark mode theme","Performance improvements up to 40% faster startup","Fixed memory leak in background sync"]
+notes:["Multiple KPI Submissions from Different MDAs","Upload Reminders for Data Uploaders","Performance improvements up to 40% faster startup","Fixed memory leak in background sync"]
