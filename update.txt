@@ -1,4 +1,4 @@
-version:1.0.4
+version:1.0.3
 winlink:https://drive.usercontent.google.com/download?id=1isYvV5kTNdv6QFiyz4rhYORRY-5rsGC9&export=download&authuser=0&confirm=t&uuid=e850d0b3-130c-4ce2-8264-fc981feb77d9
 maclink:https://www.company.com/downloads/flownix-1.4.dmg
 linuxlink:https://www.company.com/downloads/flownix-1.4.AppImage
