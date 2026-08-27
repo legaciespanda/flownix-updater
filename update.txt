@@ -1,5 +1,5 @@
-version:1.0.3
-winlink:https://drive.usercontent.google.com/download?id=1isYvV5kTNdv6QFiyz4rhYORRY-5rsGC9&export=download&authuser=0&confirm=t&uuid=e850d0b3-130c-4ce2-8264-fc981feb77d9
+version:1.0.4
+winlink:https://drive.usercontent.google.com/download?id=1TRxAfqhJ-juTOHqSq25zKtVgtaOGF40k&export=download&authuser=0&confirm=t&uuid=ef9a5429-ab42-4db7-a21a-f0ffbb4d68f3&at=AFYLz4M71a3PxfxnLqpBr7AD4od3%3A1787871843151
 maclink:https://www.company.com/downloads/flownix-1.4.dmg
 linuxlink:https://www.company.com/downloads/flownix-1.4.AppImage
-notes:["Multiple KPI Submissions from Different MDAs","Upload Reminders for Data Uploaders","Performance improvements up to 40% faster startup","Fixed memory leak in background sync"]
+notes:["Limit KPI Approval to two Approvers","Enhanced uploader dashboard","Added new KPI names","Fixed memory leak in background sync"]
