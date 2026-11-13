@@ -1,5 +1,5 @@
-version:1.0.6
+version:1.0.8
 winlink:https://drive.usercontent.google.com/download?id=1TRxAfqhJ-juTOHqSq25zKtVgtaOGF40k&export=download&authuser=0&confirm=t&uuid=ef9a5429-ab42-4db7-a21a-f0ffbb4d68f3&at=AFYLz4M71a3PxfxnLqpBr7AD4od3%3A1787871843151
 maclink:https://drive.usercontent.google.com/download?id=1yjPgAJCn6PQVq29TafGht3MDfONbcTDm&export=download&authuser=0&confirm=t&uuid=985a3b2f-fe08-409f-a458-75706b5da51e&at=AMrWOn2lk8RGAQL0JHn9paBFi47m%3A1793808371813
 linuxlink:https://www.company.com/downloads/flownix-1.4.AppImage
-notes:["New: "Updated KPI Lists"]
+notes:["New": "Manage KPI Names page", "New": "Stage-aware SLA settings", "New": "Flexible sla escalation", "Fix": "KPI number/date parsing"]
